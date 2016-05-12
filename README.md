@@ -45,6 +45,7 @@ Conserve la netiqueta. [1]
 - Eduard Lucena (**@X3MLinux**)
 - Luis Martínez (**@LuisAlejandro**)
 - Jesús Contreras (**@Chuda**)
+- Ruben Machado (**@rdmachadog**)
 
 
 [1][[http://netiqueta.org|http://netiqueta.org]]
